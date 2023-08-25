@@ -1,0 +1,1 @@
+from tyre_class import Tyre
